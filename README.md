@@ -1,0 +1,1 @@
+# VK-AdBlogger-Dashboard.user.js
